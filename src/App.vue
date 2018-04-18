@@ -61,7 +61,7 @@
           { title: 'Home', path: '/home', icon: 'home' },
           { title: 'Sign Up', path: '/signup', icon: 'face' },
           { title: 'Sign in', path: '/signin', icon: 'lock_open' },
-          { title: 'Code', path: '/start', icon: 'lock_open'}
+          { title: 'Playground', path: '/start', icon: 'lock_open' }
         ]
       }
     }

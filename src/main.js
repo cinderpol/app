@@ -12,7 +12,8 @@ const Parse = require('parse')
 Parse.initialize('appid')
 Parse.serverURL = 'http://192.168.189.135:80/parse'
 
-Vue.use(Vuetify, VueSweetalert2)
+Vue.use(Vuetify)
+Vue.use(VueSweetalert2)
 
 Vue.config.productionTip = false
 
